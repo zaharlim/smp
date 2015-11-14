@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+#container {
+	max-width: 800px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	padding-top: 20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	background: #ffff99;
+	font-family: Tahoma;
+
+}
+
+.divider {
+	width: 99%;
+	border-bottom: 3px double #aaa;
+	margin: 20px auto;
+}
+
+.label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: bold;
+  background: #0000ff;
+  font-size:20px;
